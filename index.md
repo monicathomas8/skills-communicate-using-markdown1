@@ -1,3 +1,5 @@
 # Index.md    
 
-  added a title
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Added an image
